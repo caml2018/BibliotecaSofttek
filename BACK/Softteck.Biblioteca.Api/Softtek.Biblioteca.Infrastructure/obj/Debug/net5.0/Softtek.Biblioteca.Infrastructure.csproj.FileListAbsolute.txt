@@ -1,0 +1,17 @@
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Infrastructure\obj\Debug\net5.0\Softtek.Biblioteca.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Infrastructure\obj\Debug\net5.0\Softtek.Biblioteca.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Infrastructure\obj\Debug\net5.0\Softtek.Biblioteca.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Infrastructure\obj\Debug\net5.0\Softtek.Biblioteca.Infrastructure.AssemblyInfo.cs
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Infrastructure\obj\Debug\net5.0\Softtek.Biblioteca.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Infrastructure\bin\Debug\net5.0\Softtek.Biblioteca.Infrastructure.deps.json
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Infrastructure\bin\Debug\net5.0\Softtek.Biblioteca.Infrastructure.dll
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Infrastructure\bin\Debug\net5.0\Softtek.Biblioteca.Infrastructure.pdb
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Infrastructure\bin\Debug\net5.0\Softtek.Biblioteca.Application.dll
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Infrastructure\bin\Debug\net5.0\Softtek.Biblioteca.Domain.dll
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Infrastructure\bin\Debug\net5.0\Softtek.Biblioteca.Application.pdb
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Infrastructure\bin\Debug\net5.0\Softtek.Biblioteca.Domain.pdb
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Infrastructure\obj\Debug\net5.0\Softtek.Biblioteca.Infrastructure.csproj.CopyComplete
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Infrastructure\obj\Debug\net5.0\Softtek.Biblioteca.Infrastructure.dll
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Infrastructure\obj\Debug\net5.0\refint\Softtek.Biblioteca.Infrastructure.dll
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Infrastructure\obj\Debug\net5.0\Softtek.Biblioteca.Infrastructure.pdb
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Infrastructure\obj\Debug\net5.0\ref\Softtek.Biblioteca.Infrastructure.dll

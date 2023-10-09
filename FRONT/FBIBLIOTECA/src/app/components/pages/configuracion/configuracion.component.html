@@ -1,0 +1,27 @@
+<div class="container">
+    <form class="form-customer" [formGroup]="configuracionform" #formDirective="ngForm" (submit)="$event.preventDefault()">
+        <div class="row-form">
+            <div class="center">
+                <mat-form-field class="meddium-width">
+                    <mat-label>Cantidad Maxima de Libros</mat-label>
+                    <input type="text" [formControl]="configuracionform.controls.cantidadlibros" matInput placeholder="Cantidad de libros permitidos">
+                    <mat-error *ngIf="configuracionform.controls.cantidadlibros.hasError('required')">
+                      El La cantidad de libros es <strong>Requerido</strong>
+                    </mat-error>
+                  </mat-form-field>
+            </div>
+        </div>
+        <br/>
+        <br/>
+        
+          <div class="row-form">
+            <div class="center">
+              <div>
+                <button mat-raised-button>Cancelar</button>
+                <button mat-raised-button [disabled]="!configuracionform.valid" (click)="onSave()">Guardar</button>
+              </div>
+            </div>
+          </div>
+    </form>
+</div>
+

@@ -1,0 +1,95 @@
+<div class="header-container">
+    <p>LIBRO</p>
+    <button mat-stroked-button (click)="onCreateRegister()">{{CreateLabel}}</button>
+  </div>
+  <hr>
+<div>
+  <app-modal #modal (title)="ModalTitle"  [tableData]="tableData" [displayedColumns]="displayedColumns">
+    <form class="form-customer" [formGroup]="libroform" #formDirective="ngForm" (submit)="$event.preventDefault()">
+
+      <div class="row-form">
+
+        <mat-form-field class="meddium-width">
+          <mat-label>Titulo</mat-label>
+          <input type="text" [formControl]="libroform.controls.titulo" matInput placeholder="Titulo del libro">
+          <mat-error *ngIf="libroform.controls.titulo.hasError('required')">
+            El Titulo es <strong>Requerido</strong>
+          </mat-error>
+        </mat-form-field>
+
+        <mat-form-field class="meddium-width">
+          <mat-label>Año</mat-label>
+          <input type="text" [formControl]="libroform.controls.anio" matInput placeholder="Año del libro">
+          <mat-error *ngIf="libroform.controls.anio.hasError('required')">
+            El Año es <strong>Requerido</strong>
+          </mat-error>
+        </mat-form-field>
+
+      </div>
+
+      <div class="row-form">
+        <mat-form-field class="meddium-width">
+          <mat-label>Género</mat-label>
+          <input type="text" [formControl]="libroform.controls.genero" matInput placeholder="Género del libro">
+          <mat-error *ngIf="libroform.controls.genero.hasError('required')">
+            El Género es <strong>Requerido</strong>
+          </mat-error>
+        </mat-form-field>
+
+        <mat-form-field class="meddium-width">
+          <mat-label>Numero Páginas</mat-label>
+          <input type="text" [formControl]="libroform.controls.numeroPaginas" matInput placeholder="Numero de páginas del libro">
+          <mat-error *ngIf="libroform.controls.numeroPaginas.hasError('required')">
+            El Numero de páginas es <strong>Requerido</strong>
+          </mat-error>
+        </mat-form-field>
+      </div>
+      <div class="row-form">
+        <h1>Autor</h1>
+      </div>
+      <hr>
+      <div class="row-form">
+        <mat-form-field class="large-width">
+          <input placeholder="Seleccione el Autor" type="text" aria-label="Number" matInput [formControl]="libroform.controls.selectAutor" [matAutocomplete]="auto">
+          <mat-autocomplete #auto="matAutocomplete"  (optionSelected)='onOptionsAutorSelected($event.option.value)' >
+          <mat-option *ngFor="let option of filteredOptions | async" [value]="option">
+              {{option.nombreCompleto}}
+          </mat-option>
+          </mat-autocomplete>
+      </mat-form-field>
+      </div>
+      
+      <div class="row-form">
+
+        <mat-form-field class="meddium-width">
+          <mat-label>Nombre Completo</mat-label>
+          <input type="text" [formControl]="libroform.controls.nombreAutor" matInput placeholder="Nombre completo del autor">
+          <mat-error *ngIf="libroform.controls.nombreAutor.hasError('required')">
+            El Nombre del Autor es <strong>Requerido</strong>
+          </mat-error>
+        </mat-form-field>
+
+        <mat-form-field class="meddium-width">
+          <mat-label>Email</mat-label>
+          <input type="text" [formControl]="libroform.controls.emailautor" matInput placeholder="Email del autor">
+          <mat-error *ngIf="libroform.controls.emailautor.hasError('required')">
+            El E-mail es <strong>Requerido</strong>
+          </mat-error>
+        </mat-form-field>
+      </div>
+
+      <div class="row-form">
+        <div class="center">
+          <div>
+            <button mat-raised-button>Cancelar</button>
+            <button mat-raised-button [disabled]="!libroform.valid" (click)="onSave()">Guardar</button>
+          </div>
+        </div>
+      </div>
+
+    </form>
+  </app-modal>
+</div>
+<div class="bill-containter">
+    <app-table [title]="tblTitle" [tableData]="tableData" [columns]="columns" [displayedColumns]="displayedColumns"  (updateEvent)="onUpdateRegister($event)" (deleteEvent)="onDeleteRegister($event)"></app-table>
+</div>

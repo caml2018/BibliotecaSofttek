@@ -1,0 +1,15 @@
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Domain\bin\Debug\net5.0\Softtek.Biblioteca.Domain.deps.json
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Domain\bin\Debug\net5.0\Softtek.Biblioteca.Domain.runtimeconfig.json
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Domain\bin\Debug\net5.0\Softtek.Biblioteca.Domain.runtimeconfig.dev.json
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Domain\bin\Debug\net5.0\Softtek.Biblioteca.Domain.dll
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Domain\bin\Debug\net5.0\Softtek.Biblioteca.Domain.pdb
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Domain\obj\Debug\net5.0\Softtek.Biblioteca.Domain.csproj.AssemblyReference.cache
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Domain\obj\Debug\net5.0\Softtek.Biblioteca.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Domain\obj\Debug\net5.0\Softtek.Biblioteca.Domain.AssemblyInfoInputs.cache
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Domain\obj\Debug\net5.0\Softtek.Biblioteca.Domain.AssemblyInfo.cs
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Domain\obj\Debug\net5.0\Softtek.Biblioteca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Domain\obj\Debug\net5.0\Softtek.Biblioteca.Domain.dll
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Domain\obj\Debug\net5.0\refint\Softtek.Biblioteca.Domain.dll
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Domain\obj\Debug\net5.0\Softtek.Biblioteca.Domain.pdb
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Domain\obj\Debug\net5.0\Softtek.Biblioteca.Domain.genruntimeconfig.cache
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Domain\obj\Debug\net5.0\ref\Softtek.Biblioteca.Domain.dll

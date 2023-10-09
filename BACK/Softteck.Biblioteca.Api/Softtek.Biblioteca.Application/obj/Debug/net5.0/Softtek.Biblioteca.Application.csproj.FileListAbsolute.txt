@@ -1,0 +1,15 @@
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Application\obj\Debug\net5.0\Softtek.Biblioteca.Application.csproj.AssemblyReference.cache
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Application\obj\Debug\net5.0\Softtek.Biblioteca.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Application\obj\Debug\net5.0\Softtek.Biblioteca.Application.AssemblyInfoInputs.cache
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Application\obj\Debug\net5.0\Softtek.Biblioteca.Application.AssemblyInfo.cs
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Application\obj\Debug\net5.0\Softtek.Biblioteca.Application.csproj.CoreCompileInputs.cache
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Application\bin\Debug\net5.0\Softtek.Biblioteca.Application.deps.json
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Application\bin\Debug\net5.0\Softtek.Biblioteca.Application.dll
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Application\bin\Debug\net5.0\Softtek.Biblioteca.Application.pdb
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Application\bin\Debug\net5.0\Softtek.Biblioteca.Domain.dll
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Application\bin\Debug\net5.0\Softtek.Biblioteca.Domain.pdb
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Application\obj\Debug\net5.0\Softtek.Biblioteca.Application.csproj.CopyComplete
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Application\obj\Debug\net5.0\Softtek.Biblioteca.Application.dll
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Application\obj\Debug\net5.0\refint\Softtek.Biblioteca.Application.dll
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Application\obj\Debug\net5.0\Softtek.Biblioteca.Application.pdb
+C:\Users\camej\source\repos\SOFTTEKTEST\BIBLIOTECA\BACK\Softteck.Biblioteca.Api\Softtek.Biblioteca.Application\obj\Debug\net5.0\ref\Softtek.Biblioteca.Application.dll

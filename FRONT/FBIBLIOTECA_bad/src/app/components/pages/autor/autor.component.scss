@@ -1,0 +1,75 @@
+p{
+    flex: auto;
+    text-align: center;
+    color:#ac701d;
+    font-size:25px;
+    font-style: normal;
+    font-weight: lighter;
+    margin: 10px
+
+}
+.header-container{
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}
+.bill-containter{
+    
+    background-color: #ac701d;
+    position: relative;
+    margin: 10px;
+    padding: 5px;
+    width: 97%;
+    height: auto;
+    border-radius: 4px;
+    .form-container{
+        display:grid ;
+        position: relative;
+        top:5px;
+        background-color: beige;
+        margin: 5px;
+        height: auto;
+    }
+}
+mat-form-field {
+    margin: 10px;
+}
+
+.cdk-overlay-connected-position-bounding-box {
+    z-index: 1000 !important;
+}
+
+.form-customer{
+    .row-form{
+        width: 100%;
+        display:flex;
+        .close{
+            width: 35px;
+            height: 56px;
+            margin: 10px;
+        }
+    }
+    .center{
+        width: 100%;
+        display:flex;
+        justify-content: center;
+        button{
+            margin: 5px;
+        }
+    } 
+    //width: 100%;
+    .small-width{
+        width: 25%;
+    }
+    .meddium-width{
+        width: 50%;
+    }
+    .meddium-large-width{
+        width: 75%;
+    }
+    
+    .large-width{
+        width: 100%;
+    }
+    
+}

@@ -1,0 +1,62 @@
+<div class="header-container">
+    <p>AUTOR</p>
+    <button mat-stroked-button (click)="onCreateRegister()">{{CreateLabel}}</button>
+  </div>
+  <hr>
+  <div>
+    <app-modal #modal (title)="ModalTitle"  [tableData]="tableData" [displayedColumns]="displayedColumns">
+      <form class="form-customer" [formGroup]="autorform" #formDirective="ngForm" (submit)="$event.preventDefault()">
+        
+        <div class="row-form">
+  
+          <mat-form-field class="meddium-width">
+            <mat-label>Nombre Completo</mat-label>
+            <input type="text" [formControl]="autorform.controls.nombreAutor" matInput placeholder="Nombre completo del autor">
+            <mat-error *ngIf="autorform.controls.nombreAutor.hasError('required')">
+              El Nombre del Autor es <strong>Requerido</strong>
+            </mat-error>
+          </mat-form-field>
+  
+          <mat-form-field class="meddium-width">
+            <mat-label>Fecha de Nacimiento</mat-label>
+            <input matInput [matDatepicker]="picker" [formControl]="autorform.controls.fechaNacimiento">
+            <mat-hint>MM/DD/AAAA</mat-hint>
+            <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+            <mat-datepicker #picker></mat-datepicker>
+          </mat-form-field>
+        </div>
+
+        <div class="row-form">
+  
+          <mat-form-field class="meddium-width">
+            <mat-label>Ciudad</mat-label>
+            <input type="text" [formControl]="autorform.controls.ciudadautor" matInput placeholder="Ciudad del autor">
+            <mat-error *ngIf="autorform.controls.ciudadautor.hasError('required')">
+              La ciudad es <strong>Requerida</strong>
+            </mat-error>
+          </mat-form-field>
+  
+          <mat-form-field class="meddium-width">
+            <mat-label>Email</mat-label>
+            <input type="text" [formControl]="autorform.controls.emailautor" matInput placeholder="Email del autor">
+            <mat-error *ngIf="autorform.controls.emailautor.hasError('required')">
+              El E-mail es <strong>Requerido</strong>
+            </mat-error>
+          </mat-form-field>
+        </div>
+  
+        <div class="row-form">
+          <div class="center">
+            <div>
+              <button mat-raised-button>Cancelar</button>
+              <button mat-raised-button [disabled]="!autorform.valid" (click)="onSave()">Guardar</button>
+            </div>
+          </div>
+        </div>
+  
+      </form>
+    </app-modal>
+  </div>
+<div class="bill-containter">
+    <app-table [title]="tblTitle" [tableData]="tableData" [columns]="columns" [displayedColumns]="displayedColumns"  (updateEvent)="onUpdateRegister($event)" (deleteEvent)="onDeleteRegister($event)"></app-table>
+</div>
